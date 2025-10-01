@@ -1,0 +1,95 @@
+通し番号	章	章内の通番	英単語	品詞	訳
+273	U8	1	stage	名	舞台
+274	U8	2	make up	句	仲直りする
+275	U8	3	argument	名	口論
+276	U8	4	push	動	押す
+277	U8	5	be hard on ~	句	〜に厳しく当たる
+278	U8	6	try one's best	句	全力を尽くす
+279	U8	7	director	名	指揮する人, 監督, 演出家
+280	U8	8	narrator	名	語り手
+281	U8	9	design	動	設計する
+282	U8	10	costume	名	衣装
+283	U8	11	role	名	役割
+284	U8	12	performance	名	演技, 演奏, 公演
+285	U8	13	suit	名	〜服
+286	U8	14	fix	動	修理する
+287	U8	15	preparation	名	準備
+288	U8	16	lose	動	失う、負ける
+289	U8	17	do fine	句	ちゃんとする
+290	U8	18	in ~ minute	句	あと〜分で
+291	U8	19	sky	名	空
+292	U8	20	sea	名	海
+293	U8	21	breeze	名	そよ風
+294	U8	22	Valentine's (Day)	名	バレンタインデー
+295	U8	23	chocolate	名	チョコレート
+296	U8	24	treasure	名	宝物
+297	U8	25	go well	句	うまくいく
+298	U8	26	Happy Valentine's!	句	ハッピーバレンタイン!
+299	U8	27	make ~ of …	句	…で〜を作る
+300	U8	28	written	■	writeの過去分詞
+301	U8	29	taken	■	takeの過去分詞
+302	U8	30	soybean	名	大豆
+303	U8	31	soft	形	やわらかい
+304	U8	32	America	名	アメリカ
+305	U8	33	Europe	名	ヨーロッパ
+306	U8	34	Asian	形	アジアの
+307	U8	35	build	動	建てる、作り上げる
+308	U8	36	built	■	buildの過去形・過去分詞
+309	U8	37	~ as well as …	句	…だけでなく〜も
+310	U8	38	attitude	名	態度, 心構え
+311	U8	39	toward	前	〜に対して
+312	U8	40	pressure	名	重圧
+313	U8	41	forever	副	永遠に
+314	U8	42	grateful	形	感謝している
+315	U8	43	apologize (to ~) for ...	句	…のことで(〜に)謝る
+316	U8	44	I hope you'll like it.	句	気に入ってくれたらうれしいです。
+317	AG8	1	novel	名	小説
+318	AG8	2	create	動	創り出す
+319	R3	1	invent	動	発明する
+320	R3	2	mobile phone	名	携帯電話
+321	R3	3	smartphone	名	スマートフォン
+322	R3	4	fact	名	事実
+323	R3	5	dictionary	名	辞書
+324	R3	6	tear	名	涙
+325	R3	7	introduce ~ to …	句	〜を…に導入する
+326	R3	8	in fact	句	実際は
+327	R3	9	tears of joy	句	うれし涙
+328	R3	10	conversation	名	会話
+329	R3	11	facial	形	顔の
+330	R3	12	expression	名	表現, 表情
+331	R3	13	tone	名	音色, 口調
+332	R3	14	various	形	さまざまな
+333	R3	15	population	名	個体数, 人口
+334	R3	16	bear	動	耐える、生む、実をつける
+335	R3	17	born	■	bearの過去分詞
+336	R3	18	difference	名	ちがい
+337	R3	19	hand	名	手
+338	R3	20	clapping	名	拍手
+339	R3	21	blessing	名	祝福、恵み、ありがたいもの
+340	R3	22	prayer	名	祈り
+341	R3	23	That's why ~.	句	それが〜の理由です。
+342	R3	24	around the world	句	世界のあちこちで[に/の]
+343	R3	25	more than ~	句	〜よりも多い
+344	R3	26	so ~ that …	句	とても〜なので…
+345	R3	27	be born	句	生まれる
+346	R3	28	positive	形	前向きな
+347	R3	29	meaning	名	意味
+348	R3	30	negative	形	後ろ向きな
+349	R3	31	careful	形	注意深い
+350	R3	32	wave	動	波打つ,<旗や手を>ふる
+351	R3	33	culture	名	文化
+352	R3	34	background	名	背景, 経歴, 生い立ち
+353	R3	35	Turkey	名	トルコ
+354	R3	36	scarf	名	マフラー、スカーフ
+355	R3	37	propose	動	提案する
+356	R3	38	Muslim	名	イスラム教徒
+357	R3	39	represent	動	<ものが>表す、象徴する
+358	R3	40	both ~ and …	句	〜も…も両方
+359	R3	41	be careful of ~	句	〜に気をつける
+360	R3	42	worldwide	副	世界中で[の]
+361	R3	43	modern	形	現代の
+362	YCDI3	1	local	形	地元の
+363	YCDI3	2	specialty	名	得意なこと、自慢の品, 特産品
+364	YCDI3	3	silk	名	絹
+365	YCDI3	4	mill	名	<穀物や織物などの>工場
+366	YCDI3	5	leek	名	長ねぎ
